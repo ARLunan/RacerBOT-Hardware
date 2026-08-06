@@ -1,0 +1,34 @@
+{
+  "name": "I2Cdevlib-AK8975",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrowberg/i2cdevlib.git"
+  },
+  "platforms": [
+    "*"
+  ],
+  "frameworks": [
+    "arduino"
+  ],
+  "dependencies": [
+    {
+      "name": "I2Cdevlib-Core",
+      "version": "*",
+      "owner": "jrowberg"
+    },
+    {
+      "name": "I2Cdevlib-MPU6050",
+      "version": "*",
+      "owner": "jrowberg"
+    }
+  ],
+  "version": "1.0.0",
+  "export": {},
+  "keywords": [
+    "compass",
+    "sensor",
+    "i2cdevlib",
+    "i2c"
+  ],
+  "description": "AK8975 is 3-axis electronic compass IC with high sensitive Hall sensor technology"
+}
