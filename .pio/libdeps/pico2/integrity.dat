@@ -1,16 +1,15 @@
-jrowberg/I2Cdevlib-ITG3200
-jrowberg/I2Cdevlib-ADXL345
-jrowberg/I2Cdevlib-Core
-SPI
-https://github.com/wollewald/INA219_WE
 mcauser/i2cdetect
-adafruit/Adafruit BusIO
-jrowberg/I2Cdevlib-HMC5843
 https://github.com/micro-ROS/micro_ros_platformio
-jrowberg/I2Cdevlib-HMC5883L
-https://github
+https://github.com/wollewald/INA219_WE
+adafruit/Adafruit BusIO
+https://github.com/arcao/Syslog
+https://github.com/dthain/QMC5883L
+jrowberg/I2Cdevlib-ADXL345
 jrowberg/I2Cdevlib-AK8975
 jrowberg/I2Cdevlib-MPU6050
-https://github.com/arcao/Syslog
 adafruit/Adafruit PWM Servo Driver Library
-https://github.com/dthain/QMC5883L
+jrowberg/I2Cdevlib-ITG3200
+SPI
+jrowberg/I2Cdevlib-HMC5843
+jrowberg/I2Cdevlib-HMC5883L
+jrowberg/I2Cdevlib-Core
