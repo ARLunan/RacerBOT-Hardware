@@ -1,9 +1,9 @@
 # RacerBOT-Hardware
 ROS2 Jazzy Ackerman drive packages to load into a RaspberryPi RP2350 Pico2 controller based on the linorobot2 micro-ROS architecture package configuration, refactored from repo https://github.com/hippo5329/linorobot2_hardware.git (that was the basis for the Pico 2 Controller code) and https://github.com/jimdinunzio/linorobot2_hardware.git (that was the basis for the ESC/Steering code functions).
 
-Anthropic Claude Sonnet 5 Medium used to augment this developer to analyze and develop code.
+Anthropic Claude Sonnet 5 Medium used to augment this developer's work to analyze and develop code.
  
- Design chassis is the Traxxas 1/18 LaTrax Rally ESC Drive and Steering Servo. Robot Controller is a RaspBerry PI 4/4GHz configured with Ubuntu 24.04/ROS 2 Jazzy and micro-ROS. A Lidar LD19 is connected with USB, Driving wheels equipped with AS5600 Encoders. Realtime Controller is a Raspberry Pi Pico2 install with micro-ROS connected by USB-C to the Raspberry PI4
+ Design chassis is the Traxxas 1/18 LaTrax Rally ESC Drive and Steering Servo. Robot Controller is a RaspBerry PI 4/4GHz configured with Ubuntu 24.04/ROS 2 Jazzy and micro-ROS. A Lidar LD19 is connected with USB, Driving wheels equipped with AS5600 Encoders. Realtime Controller is a Raspberry Pi Pico2 install with micro-ROS connected by USB to the Raspberry PI4.
 
  This repository "purpose" defines for the single target Pico2 controller and does not have the other targets included in the other linorobot2 repositories.
 
